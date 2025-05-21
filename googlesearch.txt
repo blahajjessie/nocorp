@@ -1,3 +1,4 @@
+! Ublock origin filters to make google be what it was meant to be
 www.google.com##div.MjjYud > .cUnQKe > .Wt5Tfe
 
 www.google.com##.dnXCYb
